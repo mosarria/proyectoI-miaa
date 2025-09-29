@@ -8,3 +8,6 @@ mis trabajos de proyecto I en miaa
 ### Descripción del proyecto
 
 aqui ponemos una descripción del proyecto
+
+### ejemplo k-means
+es un ejemplo donde se ilustra el uso de k-means
